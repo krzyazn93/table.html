@@ -1,0 +1,30 @@
+<TABLE border="0" cellpadding="0" cellspacing="0">
+<TBODY>
+<TR>
+<TD width="7" height="8" background="table_blackboard_hidariue.gif"></TD>
+<TD background="table_blackboard_ue.gif" height="8"></TD>
+<TD width="7" background="table_blackboard_migiue.gif"></TD>
+</TR>
+<TR>
+<TD width="7" background="table_blackboard_hidari.gif"></TD>
+<TD bgcolor="#233021">
+<TABLE border="0" cellpadding="4">
+<TBODY>
+<TR>
+<TD><FONT color="#ffffff" size="2">縦、横好きなだけ伸ばせます。<BR>
+真ん中のセルの色→#233021<BR>
+更新やお知らせなどに。<BR>
+</FONT></TD>
+</TR>
+</TBODY>
+</TABLE>
+</TD>
+<TD width="7" background="table_blackboard_migi.gif"></TD>
+</TR>
+<TR>
+<TD width="7" height="8" background="table_blackboard_hidarisita.gif"></TD>
+<TD background="table_blackboard_sita.gif" height="8"></TD>
+<TD width="7" height="8" background="table_blackboard_migisita.gif"></TD>
+</TR>
+</TBODY>
+</TABLE>
